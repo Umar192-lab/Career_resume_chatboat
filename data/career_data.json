@@ -1,1 +1,16 @@
 
+{
+  "Data Scientist": ["python", "machine learning", "data analysis", "statistics", "sql"],
+  "Software Developer": ["python", "java", "c++", "problem solving", "algorithms"],
+  "UX Designer": ["design", "user research", "wireframing", "figma", "creativity"],
+  "Content Writer": ["writing", "storytelling", "editing", "grammar", "seo"],
+  "Digital Marketer": ["seo", "google ads", "analytics", "social media", "communication"],
+  "AI Engineer": ["deep learning", "python", "nlp", "machine learning", "neural networks"],
+  "Cybersecurity Analyst": ["network security", "ethical hacking", "firewalls", "linux", "encryption"],
+  "Cloud Engineer": ["aws", "azure", "cloud computing", "docker", "kubernetes"],
+  "Mobile App Developer": ["android", "ios", "flutter", "react native", "mobile apps"],
+  "Business Analyst": ["excel", "data analysis", "communication", "requirements gathering", "presentation"],
+  "Product Manager": ["roadmap", "product strategy", "market research", "agile", "communication"],
+  "DevOps Engineer": ["ci/cd", "docker", "kubernetes", "jenkins", "automation"],
+  "Game Developer": ["unity", "unreal engine", "c#", "3d modeling", "game design"]
+}
